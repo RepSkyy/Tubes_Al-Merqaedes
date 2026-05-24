@@ -1,0 +1,10 @@
+{
+  "name": "botDll",
+  "version": "1.0",
+  "authors": ["Nabeel"],
+  "description": "Melakukan tembakan saat musuh terdeteksi radar",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 10.0",
+  "programmingLang": "C# 10.0"
+}
