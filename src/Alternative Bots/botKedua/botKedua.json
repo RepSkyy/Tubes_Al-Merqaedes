@@ -1,0 +1,10 @@
+{
+  "name": "botKedua",
+  "version": "1.0",
+  "authors": ["Nabeel"],
+  "description": "Mengunci target yang masuk dalam radar, dan apabila jarak cukup dekat, maka bot akan menabrak",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 10.0",
+  "programmingLang": "C# 10.0"
+}
