@@ -1,0 +1,10 @@
+{
+  "name": "LEnergyHunter",
+  "version": "1.0",
+  "authors": ["Repskuy"],
+  "description": "A bot that prioritize low energy enemy first",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 10.0",
+  "programmingLang": "C# 10.0"
+}
